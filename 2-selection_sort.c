@@ -5,7 +5,7 @@
  * using the Selection sort algorithm.
  *
  * @array: Pointer to the array to sort
- * @ssize: NUmber of ellements in the array
+ * @size: NUmber of ellements in the array
  *
  */
 void selection_sort(int *array, size_t size)
